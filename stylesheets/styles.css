@@ -1,7 +1,7 @@
 body {
-  font: 14px/1.5 Lato, "Helvetica Neu", Helvetica, Arial, sans-serif;
-	color: #777;
-	font-weight: 300;
+    font: 14px/1.5 Lato, "Helvetica Neu", Helvetica, Arial, sans-serif;
+    color: #777;
+    font-weight: 300;
     margin: 0;
     padding: 0;
 }
@@ -9,14 +9,18 @@ body {
 h1 {
     font-size: 40px;
     font-family: 'Unkempt', cursive;
-  	text-shadow: 2px 2px 2px #aaa;
+    text-shadow: 2px 2px 2px #aaa;
 }
 
 header {
-	font-family: 'Unkempt', cursive;
-  	text-shadow: 2px 2px 2px #aaa;
+    font-family: 'Unkempt', cursive;
+    text-shadow: 2px 2px 2px #aaa;
     width: 100%;
     position: fixed;
+}
+
+a {
+    text-decoration: none;
 }
 
 #nav {
